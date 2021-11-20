@@ -1,0 +1,26 @@
+eletrônica e seus Universos
+
+Voce que busca conhecmento em eletrônica nessa era atual deve ter profundo interesse nas origens dos circuitos, pois hoje é muito facil ja encontrar tudo praticamente pronto, com o minimo de conhecimento possivel ja se pode encontrar circuitos prontos, ferramentas para teste de circuito e muito mais, facilitando sempre a vida dos atuais sedentos de conhecimento em eletrônica.
+
+[VIDEO]
+
+Mas, saiba que nos anos 80 e 90 a coisa não era tão facil assim, os circuitos tinham uma chassis de ferro e toda sua montagem era feita de forma artesanal e as conexões entre os componentes feita por fiação veja essa ilustração:  
+[FOTO]
+
+Quando se quer aprender eletrônica é preciso entender cada componente seu funcinamento, sua posição dentro do circuito e sua função.
+
+[FOTO]
+
+Depois a leitura de diagramas de circuitos eletronicos
+
+[FOTO]
+
+Depois aprender a testar cada um, entender sobre polaridades, no caso de capacitores e diodos, também o que é e onde se posiciona a base o coletor e o emissor no caso de transistores.
+
+[FOTO]
+
+para circuitos integrados a coisa é mais complexa.
+
+[FOTO] 
+
+[VIDEO]     
